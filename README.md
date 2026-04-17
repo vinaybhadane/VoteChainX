@@ -84,5 +84,3 @@ Navigate to `http://localhost:3000` to access the portal.
 * **Sakshi Patil**
 * **Mrunmayi Prayage**
 
-
-Bhai, ye README aapke repo ko ek dum "Professional Startup" wala look degi. Push kar do aur link share kar dena! 🚀🏛️🔥
